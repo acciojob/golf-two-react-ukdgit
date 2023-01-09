@@ -1,4 +1,4 @@
 {
-    "testRepo": "golf-two-testcases",
-    "pathToFile": "__tests__/App.test.js"
+    "testRepo": "golf-two-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
